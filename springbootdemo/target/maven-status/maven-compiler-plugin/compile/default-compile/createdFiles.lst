@@ -1,0 +1,6 @@
+com\assignment\springboot\mongo\Myapplication.class
+com\assignment\springboot\mongo\dao\Customerdao.class
+com\assignment\springboot\mongo\controller\Customercontroller.class
+com\assignment\springboot\mongo\model\Customer.class
+com\assignment\springboot\mongo\service\Customerservice.class
+com\assignment\springboot\mongo\service\Customerserviceimpl.class
